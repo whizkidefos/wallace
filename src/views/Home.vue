@@ -1,10 +1,10 @@
 <template>
   <div class="home main-content">
     <div class="left-content">
-      <h1>20+ YEARS Development</h1>
+      <h1>20+ YEARS Development Experience</h1>
 
       <p class="subtxt">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis, aperiam!</p>
-      <p class="subtxt">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      <p class="subtxt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, ratione? Dolore magnam voluptates nobis sunt sequi, odio quasi? Ad, cumque?</p>
     </div>
 
     <div class="right-content img1">
@@ -27,7 +27,6 @@ export default {
 
 <style lang="scss" scoped>
   .img1 {
-    background: url('../assets/home.jpg');
+    background: url('../assets/wallace-bg.jpg') center no-repeat / cover;
   }
 </style>
-
